@@ -1,4 +1,4 @@
-# Custom Shell
+# Custom Linux Shell
 
 ## Introduction
 This project is a simple implementation of a Unix-like shell capable of executing commands, managing command history, handling piping and redirection, and supporting built-in commands such as cd, exit and history. It also includes basic signal processing to manage interrupts such as SIGINT (Ctrl+C).
